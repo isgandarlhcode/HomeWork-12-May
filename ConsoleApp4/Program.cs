@@ -6,7 +6,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            int[] numbers = new int[] { 1, 34, 67, 89, 112, 232, 456, 768, 900, 2222, 3434, 6565, 7878 };
+            int[] numbers = new int[] { 1, 5 , 7 , 9 , 12 , 14 , 20 , 25 ,30 , 31 , 33 , 34,  67, 89, 90 , 96 , 100 , 106 , 110 , 112, 140 ,170 , 232, 456, 768, 900, 2222, 3434, 6565,7878 };
             int searchingValue = 0;
             int minNum = 0;
             int maxNum = numbers.Length - 1;
